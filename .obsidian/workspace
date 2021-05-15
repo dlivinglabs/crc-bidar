@@ -1,27 +1,15 @@
 {
   "main": {
-<<<<<<< Updated upstream
-    "id": "37fd4f66ad632b88",
-    "type": "split",
-    "children": [
-      {
-        "id": "8344e620a643c006",
-=======
     "id": "bd9a3175087d930a",
     "type": "split",
     "children": [
       {
         "id": "6e155a16fa8e3aed",
->>>>>>> Stashed changes
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "Test.md",
-=======
-            "file": "Proposal summary.md",
->>>>>>> Stashed changes
+            "file": "Test 2.md",
             "mode": "source"
           }
         }
@@ -30,17 +18,6 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< Updated upstream
-    "id": "1025054f3ba15b87",
-    "type": "split",
-    "children": [
-      {
-        "id": "542b9d222a505ff2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a3e6915ce5a35c45",
-=======
     "id": "4463fa411dd0dd87",
     "type": "split",
     "children": [
@@ -50,7 +27,6 @@
         "children": [
           {
             "id": "7c013418a392f2bd",
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,11 +34,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "d9dec15b5fd1e518",
-=======
             "id": "06b6e37e7faf7353",
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,17 +55,6 @@
     "width": 300
   },
   "right": {
-<<<<<<< Updated upstream
-    "id": "0af6eb29fb75f594",
-    "type": "split",
-    "children": [
-      {
-        "id": "a792cfee4ef64357",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8c02173ab016cd83",
-=======
     "id": "033096294f190749",
     "type": "split",
     "children": [
@@ -103,16 +64,11 @@
         "children": [
           {
             "id": "e9497934ca316fcf",
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Test.md",
-=======
-                "file": "Proposal summary.md",
->>>>>>> Stashed changes
+                "file": "Test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,14 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< Updated upstream
-  "active": "8344e620a643c006",
-  "lastOpenFiles": [
-    "Untitled.md"
-=======
   "active": "6e155a16fa8e3aed",
   "lastOpenFiles": [
+    "Test 2.md",
     "Proposal summary.md"
->>>>>>> Stashed changes
   ]
 }
