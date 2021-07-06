@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test 2.md",
+            "file": "FAQs.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test 2.md",
+                "file": "FAQs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "e2dde4ba0756bca3",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Community Action Guide.pdf",
     "Test 2.md",
-    "Test.md",
-    "Untitled.md"
+    "Test.md"
   ]
 }
