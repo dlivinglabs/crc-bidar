@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test 2.md",
+            "file": "Self-created learning artefacts by a farmer.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test 2.md",
+                "file": "Self-created learning artefacts by a farmer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,14 @@
   },
   "active": "e2dde4ba0756bca3",
   "lastOpenFiles": [
+    "Self-created learning artefacts by a farmer.md",
+    "learning artefacts.md",
+    "CRC.md",
+    "Short article.md",
+    "Untitled.md",
     "Test 2.md",
-    "Test.md",
-    "Untitled.md"
+    "README.md",
+    "Proposal summary.md",
+    "Test.md"
   ]
 }

@@ -1,0 +1,1 @@
+In a place-based approach when the intent is to learn from the place and the ordinary people then the methods and tools need to be reimagined. Why? The known tools from the fields of planning and urbanism such as map-making,  Learning artefacts are context-specific objects that 
