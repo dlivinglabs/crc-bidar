@@ -1,0 +1,3 @@
+In this section the dialogue is about the changing local landscape and shifting cultivation practices as a response to the adaptation to impacts of climatic events. What is the rate at which these shifts have taken place? What are their implications on diverse community positionalities? Is ones experience promounced than the others? What are the invisible systems of 'othering'? How does 'Othering' create an inherent heirarchy of knowledge embedded within communities? 
+These are provocations than research questions. How can we use Holadinda oota in order to enable sucha dialogue? How many sessions do we need? How will the representations differ and can be mananged? 
+The terminologies tend to condense complex relaities in a pluriverse.

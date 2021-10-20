@@ -1,1 +1,1 @@
-In this section we will use crop calendars co-produced with 
+In this section we will use crop calendars, rituals and cultural practices that are syncretic and sopecfic the certain religions co-produced with farming communities. These become [[learning artefacts]]
