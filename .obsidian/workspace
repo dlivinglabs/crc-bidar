@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes from Gareth Johnson - Exchanges journal.md",
+            "file": "learning artefacts.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes from Gareth Johnson - Exchanges journal.md",
+                "file": "learning artefacts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "e2dde4ba0756bca3",
   "lastOpenFiles": [
+    "learning artefacts.md",
     "Notes from Gareth Johnson - Exchanges journal.md",
     "Untitled.md",
     "Self-created learning artefacts by a farmer.md",
-    "learning artefacts.md",
     "CRC.md",
     "Short article.md",
     "Test 2.md",
